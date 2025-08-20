@@ -1,2 +1,6 @@
 # Projeto-MBA
-Aprendendo GItHub
+
+Aprendendo GitHub
+
+Atualizando meu primeiro projeto.
+
